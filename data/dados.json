@@ -5,6 +5,7 @@
             "nome": "Polo Multicultural",
             "latitude": -8.420844,
             "longitude": -37.060195,
+            "img": "poloMulticultural.jpg",
             "descricao": "Shows variados com muito forró e cultura",
             "programacao": [
                 {
@@ -340,8 +341,9 @@
         {
             "id": "raizes",
             "nome": "Polo Raízes do Coco",
-            "latitude": -8.4178,
-            "longitude": -37.0578,
+            "latitude": -8.41289,
+            "longitude": -37.04957,
+            "img": "altoDoCruzeiro.jpg",
             "descricao": "Tradição e autenticidade do nosso forró",
             "programacao": [
                 {

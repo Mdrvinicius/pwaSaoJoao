@@ -478,7 +478,7 @@ main{
 }
 
 
-/* ================= FAVORITOS ================= */
+/* ================= PROGRAMAÇÃO ================= */
 
 .headerProgramacao{
     padding: 24px 20px 10px;
@@ -586,4 +586,60 @@ main{
     padding-top: 8px;
     border-top: 1px solid #d0c4b8;
 
+}
+
+/* ================= POLOS ================= */
+
+.headerPolo{
+    padding: 24px 20px 10px;
+    background: #04143A;
+    position: relative;
+}
+
+.cardsPolos {
+    background: #f8f0e8;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.cardsPolos img{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+
+.cardsPolos h3 {
+    font-size: 0.9rem;
+    color: #666666;
+}
+
+.cardsPolos h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+.infoPolos {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.cardsPolos button{
+    border-radius: 5px;
+    background-color:#d0c4b8; ;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    font-weight:bold;
+}
+
+.abrirMapa{
+    cursor: pointer;
 }
