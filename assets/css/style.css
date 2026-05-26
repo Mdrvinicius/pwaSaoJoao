@@ -1,0 +1,589 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body{
+    background: #04143A;
+    color: white;
+    max-width: 430px;
+    margin: auto;
+    min-height: 100vh;
+    padding-bottom: 100px;
+}
+
+
+.topo{
+    padding: 24px 20px 10px;
+}
+
+.topo header{
+    position: relative;
+}
+
+.topo h1{
+    font-size: 18px;
+    line-height: 1.1;
+    font-weight: 800;
+    margin-bottom: 8px;
+}
+
+.topo date{
+    color: #d8d8d8;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#notificacao{
+    position: absolute;
+    right: 0;
+    top: 10px;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#notificacao svg{
+    width: 32px;
+    height: 32px;
+}
+
+/* ================= MAIN ================= */
+
+main{
+    padding: 5px 20px;
+}
+
+/* ================= CARD LIVE ================= */
+
+.live span{
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 5px;
+    color: #000000;
+}
+
+main{
+    background-color: #f8f0e8;
+    border-radius: 2%;
+}
+
+
+#cardPrincipal{
+    position: relative;
+    background: #0c0c0c;
+    border-radius: 16px;
+    overflow: hidden;
+    min-height: 220px;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin-bottom: 22px;
+}
+
+#cardPrincipal img{
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.6;
+}
+
+/* #cardPrincipal::before{
+    content: "LIVE";
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    background: #ff0000;
+    color: white;
+    font-size: .85rem;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 8px;
+    z-index: 2;
+} */
+.badgeLive {
+    position: absolute;
+    top: 14px;
+    left: 14px;
+    background: #ff0000;
+    color: white;
+    font-size: .85rem;
+    font-weight: 700;
+    padding: 6px 10px;
+    border-radius: 8px;
+    z-index: 2;
+}
+
+
+#cardPrincipal h2,
+#cardPrincipal h3,
+#cardPrincipal time,
+#cardPrincipal h4{
+    position: relative;
+    z-index: 2;
+}
+
+#cardPrincipal h2{
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+#cardPrincipal h3{
+    font-size: 2rem;
+    font-weight: 800;
+    margin: 6px 0;
+}
+
+#cardPrincipal time{
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+#cardPrincipal h4{
+    margin-top: 4px;
+    font-size: 1rem;
+    font-weight: 500;
+}
+#cardPrincipal {
+    transition: opacity 0.3s ease;
+}
+
+/* ================= PRÓXIMOS SHOWS ================= */
+
+.nextShows{
+    margin-top: 10px;
+    color: #000000;
+}
+
+.topoBox2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 12px;
+}
+
+.topoBox2 h2{
+    font-size: 1.3rem;
+    color: #000000;
+}
+
+.topoBox2 a{
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+
+.cardShow{
+    background: #e4d5c6;
+    border-radius: 16px;
+    padding: 16px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+
+#ProximosShows {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+
+}
+
+.infoShow{
+    flex: 1;
+}
+
+.infoShow h2{
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.infoShow h3{
+    color: #000000;
+    margin-top: 4px;
+}
+
+
+.cardShow time {
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.cardShow h2 {
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.cardShow h3 {
+    color: #000000;
+    font-size: .95rem;
+    margin-top: 4px;
+}
+
+.cardShow button {
+    border: none;
+    background: transparent;
+    cursor: pointer;
+}
+
+.cardShow svg {
+    width: 28px;
+    height: 28px;
+    stroke: #000000;
+}
+
+.btnFavoritar.favoritado svg {
+    fill: #ff0000;
+    stroke: #ff0000;
+}
+/* ================= DESTAQUES ================= */
+
+.boxDestaques{
+    margin-top: 28px;
+}
+
+.boxDestaques > h2{
+    color: #000000;
+}
+
+.boxDestaques{
+    display: flex;
+    flex-direction: column;
+}
+
+.boxDestaques > h2{
+    font-size: 18px;
+    margin-bottom: 6px;
+
+}
+
+.boxDestaques > a{
+    align-self: flex-end;
+    margin-top: -28px;
+    color: #000000;
+    text-decoration: none;
+    font-weight: 600;
+    margin-bottom: 16px;
+}
+
+.navDestaques{
+    display: flex;
+    gap: 14px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.navDestaques::-webkit-scrollbar{
+    display: none;
+}
+
+.navDestaques a{
+    min-width: 31%;
+    height: 150px;
+    border-radius: 18px;
+    text-decoration: none;
+    color: white;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.navDestaques a:nth-child(1){
+    background: #c90c0c;
+}
+
+.navDestaques a:nth-child(2){
+    background: #5a1ab1;
+}
+
+.navDestaques a:nth-child(3){
+    background: #3513b8;
+}
+
+.navDestaques h2{
+    font-size: 1rem;
+    line-height: 1.2;
+}
+
+.navDestaques svg{
+    width: 48px;
+    height: 48px;
+    stroke: white;
+}
+
+/* ================= MENU ================= */
+
+.menu{
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 100%;
+    max-width: 430px;
+    background: #04143A;
+    border-top: 1px solid rgba(255,255,255,.1);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 6px 14px;
+}
+
+.menu button{
+    background: transparent;
+    border: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 6px;
+    font-size: .72rem;
+    cursor: pointer;
+    
+}
+
+.menu svg{
+    width: 24px;
+    height: 24px;
+    stroke: white;
+}
+
+
+
+.btnMenu.ativo{
+    background: #F5A623;
+    border-radius: 4px;
+    color: #04143A;
+    padding: 6px 10px;
+}
+
+.btnMenu.ativo svg{
+    stroke: #04143A;
+}
+
+
+/* ================= FAVORITOS ================= */
+
+.headerFavoritos {
+    padding: 24px 20px 10px;
+    background: #04143A;
+    position: relative;
+}
+
+.headerFavoritos h1 {
+    font-size: 28px;
+    font-weight: 800;
+    color: white;
+}
+
+#pesquisa {
+    position: absolute;
+    right: 20px;
+    top: 24px;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+#pesquisa svg {
+    width: 28px;
+    height: 28px;
+}
+
+
+
+#filtro {
+    display: flex;
+    background: #041f50;
+    border-radius: 25px;
+    padding: 4px;
+    margin-top: 12px;
+    gap: 4px;
+}
+
+.btnFiltro {
+    flex: 1;
+    padding: 8px;
+    border: none;
+    border-radius: 20px;
+    background: transparent;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.btnFiltro.ativo {
+    background: #F5A623;
+    color: #04143A;
+}
+
+
+.cardListaFav{
+    display: flex;
+    flex-direction: row;
+    padding: 12px;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    background: #f8f0e8;
+    border-radius: 16px;
+}
+
+.cardListaFav img{
+    width: 100px;
+    height: 100px;
+    border-radius: 5px;
+}
+
+#dataShowFav{
+    width: 50px;
+    height: 100px;
+    background: #04143A;
+    color: #ffffff;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#infoShowFav{
+    color: #000000;
+    padding: 0 12px;
+    flex: 1;
+}
+
+.btnFavoritar {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.semFavoritos{
+    color: #04143A;
+    font-size: large;
+}
+
+
+/* ================= FAVORITOS ================= */
+
+.headerProgramacao{
+    padding: 24px 20px 10px;
+    background: #04143A;
+    position: relative;
+}
+
+.filtroScroll {
+    display: flex;
+    overflow-x: auto;
+    gap: 8px;
+    padding: 12px 0;
+    scrollbar-width: none;
+}
+
+.filtroScroll::-webkit-scrollbar {
+    display: none;
+}
+
+.botaoDias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-width: 48px;
+    padding: 8px;
+    border: none;
+    border-radius: 10px;
+    background: #1a2f5a;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.botaoDias.ativo {
+    background: #F5A623;
+    color: #04143A;
+}
+
+.cardProgramacao {
+    background: #f8f0e8;
+    border-radius: 16px;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.cardProgramacao .horarioShow p {
+    font-size: 20px;
+    font-weight: 800;
+    color: #000000;
+}
+
+.cardProgramacao h3 {
+    font-size: 0.9rem;
+    color: #666666;
+}
+
+.cardProgramacao h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+.infoShowProgramacao {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+.cardProgramacao .btnFavoritar {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.cardProgramacao .btnFavoritar svg {
+    width: 28px;
+    height: 28px;
+    stroke: #000000;
+}
+
+.botaoPolos {
+    white-space: nowrap;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 10px;
+    background: #1a2f5a;
+    color: white;
+    cursor: pointer;
+    font-weight: 700;
+}
+
+.botaoPolos.ativo {
+    background: #F5A623;
+    color: #04143A;
+}
+
+.tituloDia {
+    color: #000000;
+    font-size: 1.1rem;
+    font-weight: 700;
+    margin: 16px 0 8px;
+    padding-top: 8px;
+    border-top: 1px solid #d0c4b8;
+
+}

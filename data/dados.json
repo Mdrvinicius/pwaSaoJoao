@@ -1,0 +1,517 @@
+{
+    "polos": [
+        {
+            "id": "poloMulticultural",
+            "nome": "Polo Multicultural",
+            "latitude": -8.420844,
+            "longitude": -37.060195,
+            "descricao": "Shows variados com muito forró e cultura",
+            "programacao": [
+                {
+                    "dia": "2026-06-13",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Coco das Irmãs Lopes",
+                            "imagem": "sambaCoco.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Flavio Jose",
+                            "imagem": "flavioJose.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Alceu Valença",
+                            "imagem": "alceuValenca.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-14",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "PV Calado",
+                            "imagem": "pvCalado.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Junior e Jorge",
+                            "imagem": "juniorEjorge.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Lipe Lucena",
+                            "imagem": "lipeLucena.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-15",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Festival de Quadrilhas no Sesc",
+                            "imagem": "sesc.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-16",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Juciê",
+                            "imagem": "jucie.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Zé Vaqueiro",
+                            "imagem": "zeVaqueiro.jpg",
+                            "destaque": true
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Nattan",
+                            "imagem": "nattan.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Dani Aguiar",
+                            "imagem": "daniAguiar.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "talitaMel",
+                            "imagem": "talitaMel.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Priscila Senna",
+                            "imagem": "priscilaSenna.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Mayana Neiva",
+                            "imagem": "mayanaNeiva.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Edy & Nathan",
+                            "imagem": "edyEnathan.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Fabinho Testado ",
+                            "imagem": "fabinhoTestado.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Capital do Sol ",
+                            "imagem": "capitalDoSol.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Ciro Santos ",
+                            "imagem": "ciroSantos.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Assisão",
+                            "imagem": "assisao.jpg",
+                            "destaque": true
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Super Oara",
+                            "imagem": "superOara.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Felipe Amorim",
+                            "imagem": "felipeAmorim.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Coco Fulô do Barro",
+                            "imagem": "cocoFuloDoBarro.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Geraldinho Lins",
+                            "imagem": "geraldinhoLins.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Garota Safada",
+                            "imagem": "garotaSafada.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Coco Raízes de Arcoverde ",
+                            "imagem": "cocoRaizes.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "George Silva",
+                            "imagem": "georgeSilva.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Jorge de Altinho ",
+                            "imagem": "jorgeDeAltinho.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Cordel do Fogo Encantado ",
+                            "imagem": "cordelDoFogoEncantado.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "João Vaqueiro",
+                            "imagem": "joaoVaqueiro.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Magníficos ",
+                            "imagem": "magnificos.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Xand Avião",
+                            "imagem": "garotaSafada.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-25",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Will",
+                            "imagem": "will.jpg",
+                            "destaque": true
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Nágylla Ferreira  ",
+                            "imagem": "nagyllaFerreira.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "João Gomes ",
+                            "imagem": "joaoGomes.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-26",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Ycaro Andrade",
+                            "imagem": "ycaroAndrade.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Harry Estigado",
+                            "imagem": "harryEstigado.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Nathanzinho Lima",
+                            "imagem": "nathanzinhoLima.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Flávio Leandro",
+                            "imagem": "flavioLeandro.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Noda de Caju",
+                            "imagem": "nodaDeCaju.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Limão com Mel ",
+                            "imagem": "limaoComMel.jpg",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "--:--",
+                            "artista": "Carlos e Fábio ",
+                            "imagem": "carlosEfabio.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Forrozão Chacal ",
+                            "imagem": "forrozaoChacal.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "--:--",
+                            "artista": "Matheus & Kauan",
+                            "imagem": "matheusEkauan.jpg",
+                            "destaque": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "raizes",
+            "nome": "Polo Raízes do Coco",
+            "latitude": -8.4178,
+            "longitude": -37.0578,
+            "descricao": "Tradição e autenticidade do nosso forró",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "19:00",
+                            "artista": "Samba de Coco En'cantos do Coco",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "20:30",
+                            "artista": "Samba de Coco Irmãs Lopes",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Josildo Sá",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "17:00",
+                            "artista": "Valdinho Paes",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Samba de Coco Raízes de Arcoverde",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "20:30",
+                            "artista": "Maciel Melo",
+                            "imagem": "",
+                            "destaque": true
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Almerio",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "19:00",
+                            "artista": "Samba de Coco Eremim",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "20:30",
+                            "artista": "Samba de Coco Quebra Coco Aliança",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Romero Ferro",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "19:00",
+                            "artista": "Samba de Coco Tropé",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "20:30",
+                            "artista": "Somos Forró",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Martins",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "18:00",
+                            "artista": "Samba de Coco d'Malandro",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:30",
+                            "artista": "Joyce Alane",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Laís Senna",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "17:00",
+                            "artista": "Rafael Moura",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Transmissão do jogo do Brasil",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Samba de Coco Pisada Segura",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "As Januárias",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "patrocinadores": [
+        {
+            "id": "patrocinador1",
+            "nome": "Razer",
+            "logo": "razer.png"
+        },
+        {
+            "id": "patrocinador2",
+            "nome": "Riot Games",
+            "logo": "riot.png"
+        },
+        {
+            "id": "patrocinador3",
+            "nome": "Banco Master",
+            "logo": "bancoMaster.jpg"
+        }
+    ]
+}
