@@ -643,3 +643,11 @@ main{
 .abrirMapa{
     cursor: pointer;
 }
+
+/* ================= MAIS ================= */
+
+.headerMais {
+    padding: 24px 20px 10px;
+    background: #04143A;
+    position: relative;
+}
