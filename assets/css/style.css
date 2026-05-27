@@ -95,19 +95,6 @@ main{
     opacity: 0.6;
 }
 
-/* #cardPrincipal::before{
-    content: "LIVE";
-    position: absolute;
-    top: 14px;
-    left: 14px;
-    background: #ff0000;
-    color: white;
-    font-size: .85rem;
-    font-weight: 700;
-    padding: 6px 10px;
-    border-radius: 8px;
-    z-index: 2;
-} */
 .badgeLive {
     position: absolute;
     top: 14px;
@@ -486,6 +473,12 @@ main{
     position: relative;
 }
 
+.headerProgramacao h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
 .filtroScroll {
     display: flex;
     overflow-x: auto;
@@ -594,6 +587,12 @@ main{
     padding: 24px 20px 10px;
     background: #04143A;
     position: relative;
+}
+
+.headerPolo h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
 }
 
 .cardsPolos {
@@ -717,4 +716,250 @@ main {
 
 .infoCard {
     flex: 1;
+}
+
+/* ================= SOBRE/ARCO/SAO JOAO ================= */
+
+.headerSobre {
+    padding: 24px 20px 10px;
+    background: #04143A;
+}
+
+.headerSobre h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.headerSobre h2 {
+    color: white;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.mainSobre {
+    flex: 1;
+    padding: 0 15px 100px;
+}
+
+
+.foto img {
+    width: 100%;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 18px 18px 0 0;
+    display: block;
+    padding-top: 10px;
+}
+
+
+.mainSobre section {
+    background-color: #ece5de;
+    color: #000;
+    padding: 28px 20px;
+    border-radius: 0 0 18px 18px;
+}
+
+.mainSobre section h3 {
+    font-size: 2rem;
+    margin-bottom: 18px;
+    font-weight: bold;
+}
+
+.mainSobre section p {
+    font-size: 1.35rem;
+    line-height: 1.5;
+}
+
+
+.mainSobre a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 260px;
+    height: 55px;
+
+
+    background-color: #d8c9bb;
+    color: #000;
+
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: bold;
+
+    border-radius: 12px;
+
+    margin: 35px auto 0;
+   
+}
+
+/* ================= DESENVOLVEDOR ================= */
+
+.headerMeu {
+    padding: 24px 20px 10px;
+    background: #04143A;
+}
+
+.headerMeu h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.headerMeu h2 {
+    color: white;
+    font-size: 19px;
+    font-weight: 800;
+}
+
+.mainInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #041f50;
+}
+
+.fotoMinha {
+    width: 170px;
+    height: 170px;
+
+    border-radius: 50%;
+    overflow: hidden;
+
+    border: 6px solid #f8b625;
+
+    margin-bottom: 25px;
+
+    box-shadow: 0 0 30px rgba(248, 182, 37, 0.3);
+}
+
+.fotoMinha img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+
+.infoMinhas {
+    text-align: center;
+    margin-bottom: 35px;
+    max-width: 340px;
+}
+
+.infoMinhas p {
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+
+.infoMinhas p:first-child {
+    margin-bottom: 10px;
+}
+
+
+
+.cardGit,
+.cardLink {
+    width: 100%;
+    max-width: 420px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    padding: 22px 20px;
+
+    margin-bottom: 18px;
+
+    text-decoration: none;
+    color: white;
+
+    border-radius: 22px;
+
+    background: rgba(255, 255, 255, 0.06);
+
+    border: 1px solid rgba(255,255,255,0.15);
+
+    backdrop-filter: blur(10px);
+
+
+}
+
+
+.cardGit svg,
+.cardLink svg {
+    width: 34px;
+    height: 34px;
+    flex-shrink: 0;
+}
+
+
+.cardGit p,
+.cardLink p {
+    flex: 1;
+    margin: 0 18px;
+    font-size: 1.1rem;
+    word-break: break-word;
+}
+
+
+.cardGit svg:last-child,
+.cardLink svg:last-child {
+    color: #f8b625;
+}
+
+
+
+.sobreApp {
+    background: #f2ebe4;
+
+    margin-top: 45px;
+
+    border-radius: 28px;
+
+    padding: 28px 24px;
+
+    display: flex;
+    gap: 22px;
+    align-items: flex-start;
+
+    color: #001b57;
+}
+
+
+.boxSvg {
+    min-width: 85px;
+    height: 85px;
+
+    background: #001b57;
+
+    border-radius: 20px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.boxSvg svg {
+    width: 42px;
+    height: 42px;
+    color: #f8b625;
+}
+
+.infoApp h3 {
+    font-size: 2rem;
+    margin-bottom: 18px;
+}
+
+.infoApp p {
+    font-size: 1.15rem;
+    margin-bottom: 14px;
+    line-height: 1.5;
+}
+
+body > p {
+    text-align: center;
+    margin-top: 35px;
+    font-size: 1rem;
+    opacity: 0.9;
 }
