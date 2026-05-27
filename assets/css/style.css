@@ -631,13 +631,16 @@ main{
     flex: 1;
 }
 
-.cardsPolos button{
+.cardsPolos button {
     border-radius: 5px;
-    background-color:#d0c4b8; ;
+    background-color: #d0c4b8;
     border: none;
     padding: 10px;
-    font-size: 15px;
-    font-weight:bold;
+    font-size: 13px;
+    font-weight: bold;
+    width: 100px;
+    flex-shrink: 0;
+    cursor: pointer;
 }
 
 .abrirMapa{
@@ -649,5 +652,69 @@ main{
 .headerMais {
     padding: 24px 20px 10px;
     background: #04143A;
-    position: relative;
+}
+
+.headerMais h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+main {
+    background: #f8f0e8;
+    border-radius: 16px;
+    margin: 12px;
+    overflow: hidden;
+}
+
+.cardsSobre {
+    padding: 16px;
+    border-bottom: 1px solid #d0c4b8;
+    min-height: 80px;
+}
+
+.cardsSobre a {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    text-decoration: none;
+    color: #000000;
+}
+
+.boxIcon {
+    width: 60px;
+    height: 60px;
+    border-radius: 12px;
+    background: #e7dacc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+}
+
+.boxIcon img {
+    width: 36px;
+    height: 36px;
+}
+
+.cardsSobre h2 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+.cardsSobre p {
+    font-size: 0.85rem;
+    color: #666666;
+    margin-top: 4px;
+}
+
+.cardsSobre svg {
+    margin-left: auto;
+    stroke: #999999;
+    flex-shrink: 0;
+}
+
+.infoCard {
+    flex: 1;
 }

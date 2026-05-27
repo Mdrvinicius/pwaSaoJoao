@@ -341,8 +341,8 @@
         {
             "id": "raizes",
             "nome": "Polo Raízes do Coco",
-            "latitude": -8.41289,
-            "longitude": -37.04957,
+            "latitude": -8.42243,
+            "longitude": -37.05211,
             "img": "altoDoCruzeiro.jpg",
             "descricao": "Tradição e autenticidade do nosso forró",
             "programacao": [
@@ -491,6 +491,423 @@
                         {
                             "horario": "22:30",
                             "artista": "As Januárias",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "budega",
+            "nome": "Budega da Poesia",
+            "latitude": -8.41315,
+            "longitude": -37.06486,
+            "img": "budegaDaPoesia.jpg",
+            "descricao": "Poesia e cultura do sertão nordestino",
+            "programacao": [
+                {
+                    "dia": "2026-06-13",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Macvany",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Chamego Quente",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Giovani do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Monteirinho e Banda",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-14",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Monteirinho",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Leandro Vaz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:00",
+                            "artista": "Aldo Almeida",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Cantigas e Cantilenas",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Paulinha Mel",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Monteirinho",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Samba de Latada",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:00",
+                            "artista": "Paulinho e Pedrinho do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Poetas da Budega",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Tião Gavião e Forró Talismã",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Macvany",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Artuzinho do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Almir e Banda",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Thiago e Dineide",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Leandro Vaz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Zezito Santos",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Forró Art Nordestina",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Júnior Saigon",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Macvany",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Didi Cachiado",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Forrozão Pegada Quente",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "George Silva",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-25",
+                    "shows": [
+                        {
+                            "horario": "18:00",
+                            "artista": "Noite do Candeeiro",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Monteirinho",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Forrozão de Pai pra Filho",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Jadson Matuto",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Curinga e Cilene",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "13:00",
+                            "artista": "Leandro Vaz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "15:00",
+                            "artista": "Gigantes do Forró",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:00",
+                            "artista": "Ruana Nascimento",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Silvia Regina",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "pedeserra",
+            "nome": "Polo Pé de Serra",
+            "latitude": -8.41874,
+            "longitude": -37.05523,
+            "img": "peDeSerra.jpg",
+            "descricao": "O melhor do forró pé de serra",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Ademir e Banda",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Silvia Regina",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Forró Maktub",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Forró de Pai pra Filho",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Sergio Coringa e Cilene a Flor do Sertão",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Cição",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Zé do Peba e Trio Catingueira",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Pau no Xote",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "19:00",
+                            "artista": "James Vaqueiro",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "20:30",
+                            "artista": "Lorenção",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Boka Diniz",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Tiago e Dineide Araújo",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Vaqueirões do Forró",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Ricardo Lima",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Daci Pires e Forró Baluarte",
+                            "imagem": "",
+                            "destaque": true
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Zezinho do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:00",
+                            "artista": "Forró Júnior Saygon",
                             "imagem": "",
                             "destaque": true
                         }
