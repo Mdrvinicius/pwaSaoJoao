@@ -914,6 +914,750 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "poloPoesia",
+            "nome": "Polo da Poesia",
+            "latitude": 0,
+            "longitude": 0,
+            "img": "poloPoesia.jpg",
+            "descricao": "Recitais, declamações, música e cultura popular.",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Carim Moraes Andrade",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Luiz Wilson",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "15:00",
+                            "artista": "Lídio Vaz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:30",
+                            "artista": "Leandro Vaz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Gabi Cyseiros",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "17:00",
+                            "artista": "Sintonia Pegada Quente",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Djosman Avelino - Do Verso ao Choro",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Mestre Alberone Rabequeiro",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "14:00",
+                            "artista": "Café em Cena",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:00",
+                            "artista": "MAM - Arcoverde (En)Canto",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Isabelly Moreira",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Paulinho do Forró",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Manuel Lima Repentista",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Tenório Barros",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Cazu Arcoverde",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "15:00",
+                            "artista": "Zé Carlos Pajé",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "16:00",
+                            "artista": "Ancheita Dali",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "17:00",
+                            "artista": "Sofia Andriadora",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "18:00",
+                            "artista": "Farra dos Poetas",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poloCruz",
+            "nome": "Polo da Cruz",
+            "latitude": 0,
+            "longitude": 0,
+            "img": "poloCruz.jpg",
+            "descricao": "Tradição, forró e cultura popular.",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Arrocha Noiz",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Robson Torres",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Gilene Alves",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Raul e Rogério",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Cícero do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Tempero Nordestino",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Cigano do Acordeon",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Rodolfo Melo",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Românticos do Forró",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Trio Gavião",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "16:00",
+                            "artista": "Zé Coco",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "19:00",
+                            "artista": "Zezito Santos Alegria do Forró",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poloArtes",
+            "nome": "Polo das Artes",
+            "latitude": 0,
+            "longitude": 0,
+            "img": "poloArtes.jpg",
+            "descricao": "Espaço dedicado à cultura popular, música e manifestações artísticas.",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Reisado Encantos das Caraíbas",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:30",
+                            "artista": "Quadrilha Junina Rainha Sertaneja",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Quebra Coco Aliança",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "00:00",
+                            "artista": "Cadilac Tangerina",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Coco Fulô do Barro",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Regente Joaquim",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Caike Souza",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Coco Trupé",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:30",
+                            "artista": "Lia Morais",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Vertin Moura",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Coco Pisada Segura",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Motumbaxé",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Oba Aiyê",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "00:00",
+                            "artista": "Helena Cristina",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Reisado Mirim N. S. do Rosário",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Encantos do Coco",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Jú Cavalcanti",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "00:00",
+                            "artista": "Gabi da Pele Preta",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Afoxé Ya Omi Ogunté",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Coco de Malandro",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Transcoco",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "00:00",
+                            "artista": "Driko",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Coco Juremado Manacá",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:30",
+                            "artista": "Tonino Arcoverde",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Forró Rabecado",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "00:00",
+                            "artista": "Forró na Caixa",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Coco Eremim",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:30",
+                            "artista": "Kelly Rosa",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "22:30",
+                            "artista": "Larissa Gois",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poloCorredorCultural",
+            "nome": "Polo Corredor Cultural",
+            "latitude": 0,
+            "longitude": 0,
+            "img": "poloCorredorCultural.jpg",
+            "descricao": "Apresentações de bandas de pífano, maracatus e manifestações culturais tradicionais.",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "21:00",
+                            "artista": "Maracatu Batuque do Sertão",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "19:00",
+                            "artista": "Banda de Pífanos Senhores da Terra",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Maracatu Raízes do Sertão",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífano Santa Luzia",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Maracatu Estrela Dourada Mestre Baraxinha",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífano São Sebastião",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Maracatu Encantos do Sertão",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífano Zabumba São Miguel",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífano N. S. da Conceição",
+                            "imagem": "",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "21:00",
+                            "artista": "Sertão Maracatu",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífanos Senhores da Terra",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "20:00",
+                            "artista": "Banda de Pífanos Zabumba São Miguel",
+                            "imagem": "",
+                            "destaque": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "poloCGA",
+            "nome": "Polo do CGA",
+            "latitude": -8.420000,
+            "longitude": -37.060000,
+            "img": "poloCGA.jpg",
+            "descricao": "Programação cultural e artística do CGA",
+            "programacao": [
+                {
+                    "dia": "2026-06-19",
+                    "shows": [
+                        {
+                            "horario": "14:00",
+                            "artista": "Felipe Morais",
+                            "imagem": "felipeMorais.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-20",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Paulinha Mel",
+                            "imagem": "paulinhaMel.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "14:00",
+                            "artista": "Edson Augusto e Forró dos Três",
+                            "imagem": "edsonAugusto.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-21",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Art' Nordestina",
+                            "imagem": "artNordestina.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-22",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Gil Mendes",
+                            "imagem": "gilMendes.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "14:00",
+                            "artista": "Forró Sem Limites",
+                            "imagem": "forroSemLimites.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-23",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Elder Brasil",
+                            "imagem": "elderBrasil.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "14:00",
+                            "artista": "Paulinho do Forró",
+                            "imagem": "paulinhoDoForro.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-24",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Forró Chamego Quente",
+                            "imagem": "forroChamegoQuente.jpg",
+                            "destaque": false
+                        },
+                        {
+                            "horario": "14:00",
+                            "artista": "Ewerton Macedo",
+                            "imagem": "ewertonMacedo.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-27",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Ruana Nascimento",
+                            "imagem": "ruanaNascimento.jpg",
+                            "destaque": false
+                        }
+                    ]
+                },
+                {
+                    "dia": "2026-06-28",
+                    "shows": [
+                        {
+                            "horario": "12:00",
+                            "artista": "Forró do Povo",
+                            "imagem": "forroDoPovo.jpg",
+                            "destaque": false
+                        }
+                    ]
+                }
+            ]
         }
     ],
     "patrocinadores": [
@@ -931,6 +1675,184 @@
             "id": "patrocinador3",
             "nome": "Banco Master",
             "logo": "bancoMaster.jpg"
+        }
+    ],
+    "descancar": [
+        {
+            "nome": "ibis Hotel",
+            "tipo": "Hotel",
+            "avaliacao": 4.5,
+            "imagem": "ibisHotel.jpg",
+            "latitude": -8.42340,
+            "longitude": -37.05045
+        },
+        {
+            "nome": "Max Hotel",
+            "tipo": "Hotel",
+            "avaliacao": 4.5,
+            "imagem": "maxHotel.jpg",
+            "latitude": -8.42001,
+            "longitude": -37.07816
+        },
+        {
+            "nome": "Hotel Cintra",
+            "tipo": "Hotel",
+            "avaliacao": 4.2,
+            "imagem": "hotelCintra.jpg",
+            "latitude": -8.42492,
+            "longitude": -37.05786
+        },
+        {
+            "nome": "Hotel Cruzeiro",
+            "tipo": "Hotel",
+            "avaliacao": 4.6,
+            "imagem": "hotelCruzeiro.jpg",
+            "latitude": -8.43027,
+            "longitude": -37.06454
+        },
+        {
+            "nome": "Pousada Verdes Arcos",
+            "tipo": "Pousada",
+            "avaliacao": 4.0,
+            "imagem": "pousadaVerdesArcos.jpg",
+            "latitude": -8.41990,
+            "longitude": -37.05027
+        },
+        {
+            "nome": "Pousada Riacho do Mel",
+            "tipo": "Pousada",
+            "avaliacao": 4.2,
+            "imagem": "pousadaRiachodoMel.jpg",
+            "latitude": -8.41521,
+            "longitude": -37.07705
+        },
+        {
+            "nome": "Hotel Cintra",
+            "tipo": "Hotel",
+            "avaliacao": 4.3,
+            "imagem": "hotelCintra.jpg",
+            "latitude": -8.42492,
+            "longitude": -37.05786
+        },
+        {
+            "nome": "Amaretto Hotel",
+            "tipo": "Adulto",
+            "avaliacao": 4.4,
+            "imagem": "amarettoHotel.jpg",
+            "latitude": -8.41631,
+            "longitude": -37.08103
+        },
+        {
+            "nome": "Henry's Hotel",
+            "tipo": "Adulto",
+            "avaliacao": 4.4,
+            "imagem": "henrysHotel.jpg",
+            "latitude": -8.41631,
+            "longitude": -37.08103
+        }
+    ],
+    "restaurantes": [
+        {
+            "nome": "Cavalcante Restaurante",
+            "avaliacao": 4.7,
+            "tipo": "Restaurante",
+            "imagem": "cavalcanteRestaurante.jpg",
+            "latitude": -8.41737,
+            "longitude": -37.05321
+        },
+        {
+            "nome": "Divino Sabor",
+            "avaliacao": 4.4,
+            "tipo": "Restaurante",
+            "imagem": "divinoSabor.jpg",
+            "latitude": -8.41956,
+            "longitude": -37.05300
+        },
+        {
+            "nome": "Churrascaria 2000",
+            "avaliacao": 4.5,
+            "tipo": "Restaurante",
+            "imagem": "churrascaria200.jpg",
+            "latitude": -8.41830,
+            "longitude": -37.05893
+        },
+        {
+            "nome": "Boi Bom",
+            "avaliacao": 4.4,
+            "tipo": "Restaurante",
+            "imagem": "boiBom.jpg",
+            "latitude": -8.41669,
+            "longitude": -37.07971
+        },
+        {
+            "nome": "A Oca do Buda",
+            "avaliacao": 4.3,
+            "tipo": "Restaurante",
+            "imagem": "ocaDoBuda.jpg",
+            "latitude": -8.41473,
+            "longitude": -37.06557
+        },
+        {
+            "nome": "Baronni Hamburgueria",
+            "avaliacao": 4.2,
+            "tipo": "Hamburgueria",
+            "imagem": "baronni.jpg",
+            "latitude": -8.41958,
+            "longitude": -37.05870
+        },
+        {
+            "nome": "Caruzzo",
+            "avaliacao": 4.3,
+            "tipo": "Pizzaria",
+            "imagem": "caruzzo.jpg",
+            "latitude": -8.41956,
+            "longitude": -37.05879
+        },
+        {
+            "nome": "Flor do Horizonte",
+            "avaliacao": 4.3,
+            "tipo": "Pizzaria",
+            "imagem": "florDoHorizonte.jpg",
+            "latitude": -8.41521,
+            "longitude": -37.06576
+        },
+        {
+            "nome": "So Delicia's",
+            "avaliacao": 4.3,
+            "tipo": "Lanchonete",
+            "imagem": "soDelicias.jpg",
+            "latitude": -8.41973,
+            "longitude": -37.05850
+        }
+    ],
+    "pontosTuristicos": [
+        {
+            "nome": "Igreja Batista",
+            "descricao": "O primeiro Templo Batista de Arcoverde, atualmente conhecido como Igrejinha Batista, foi inaugurado em 1926 quando o que atualmente se conhece como Arcoverde era a povoação de Rio Branco, pertencente ao Município de Pesqueira (Arcoverde, ainda com o nome de Rio Branco, foi emancipada em 11 de setembro de 1928).",
+            "imagem": "igrejaBatista.jpg",
+            "latitude": -8.4178,
+            "longitude": -37.0578
+        },
+        {
+            "nome": "Cecora",
+            "descricao": "Centro Comercial de Arcoverde: Mercado central, ótimo para vivenciar o comércio local e artesanato.",
+            "imagem": "cecora.jpg",
+            "latitude": -8.41811,
+            "longitude": -37.05464
+        },
+        {
+            "nome": "Alto do Cruzeiro",
+            "descricao": "Famoso pelo visual panorâmico, é o ponto de encontro tradicional para manifestações folclóricas e apresentações de samba de coco, além de sediar eventos oficiais do ciclo junino",
+            "imagem": "altoDoCruzeiro2.jpg",
+            "latitude": -8.41811,
+            "longitude": -37.05464
+        },
+        {
+            "nome": "Estacao da Cultura",
+            "descricao": "A Associação Estação da Cultura nasceu da ocupação dos artistas de Arcoverde, no Sertão de Pernambuco, iniciada em 17 de novembro de 2001, com o objetivo de apoiar, estimular e promover ações que integrem arte, educação e comunicação para o desenvolvimento artístico e cultural da comunidade.",
+            "imagem": "estacaoDaCultura.jpg",
+            "latitude": -8.41811,
+            "longitude": -37.05464
         }
     ]
 }

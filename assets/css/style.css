@@ -963,3 +963,118 @@ body > p {
     font-size: 1rem;
     opacity: 0.9;
 }
+
+
+
+/* ================= ONDE FICAR/ COMER / TURISMO ================= */
+.comerHeader,
+.ficarHeader,
+.headerTurismo {
+    padding: 24px 20px 10px;
+    background: #04143A;
+}
+
+.comerHeader h1,
+.ficarHeader h1,
+.headerTurismo h1 {
+    color: white;
+    font-size: 28px;
+    font-weight: 800;
+}
+
+
+.cardTurismo,
+.cardRestaurante,
+.cardHotel {
+    background: #f8f0e8;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 12px;
+    padding-bottom: 5px;
+    border-bottom: 3px solid #d0c4b8; 
+}
+
+.cardTurismo img,
+.cardRestaurante img,
+.cardHotel img {
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+}
+
+.infoTurismo,
+.infoRestaurante,
+.infoHotel {
+    padding: 12px;
+}
+
+.infoTurismo h2,
+.infoRestaurante h2,
+.infoHotel h2 {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: #000000;
+}
+
+.infoTurismo p,
+.infoRestaurante p,
+.infoHotel p {
+    color: #666666;
+    font-size: 0.9rem;
+    margin-top: 4px;
+    padding-bottom: 10px;
+}
+
+.avaliacao {
+    font-weight: 700;
+    color: #F5A623;
+    font-size: 0.9rem;
+}
+
+.barraPesquisa {
+    display: flex;
+    align-items: center;
+    background: rgba(255,255,255,0.1);
+    border-radius: 25px;
+    padding: 8px 16px;
+    margin-top: 12px;
+    gap: 8px;
+    border: 1px solid rgba(255,255,255,0.3);
+}
+
+.barraPesquisa input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    width: 100%;
+    font-size: 0.95rem;
+}
+
+.barraPesquisa input::placeholder {
+    color: rgba(255,255,255,0.6);
+}
+
+.barraPesquisa svg {
+    stroke: rgba(255,255,255,0.6);
+    flex-shrink: 0;
+}
+
+
+.abrirMapa{
+    border-radius: 5px;
+    background-color: #d0c4b8;
+    border: none;
+    padding: 10px;
+    font-size: 13px;
+    font-weight: bold;
+    width: 100px;
+    flex-shrink: 0;
+    cursor: pointer;
+    margin-bottom: 10px;
+    
+}
+
+.abrirMapa{
+    cursor: pointer;
+}

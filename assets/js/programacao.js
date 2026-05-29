@@ -7,7 +7,8 @@ fetch('../data/dados.json')
         const todosPolos = dados.polos
         const filtroDia = document.getElementById('filtroScroll')
 
-      
+
+
         function gerarBotoesDias() {
             filtroDia.innerHTML = ''
 
@@ -26,10 +27,10 @@ fetch('../data/dados.json')
                 `
             })
 
-            
+
             const botoesDia = document.querySelectorAll('.botaoDias')
             botoesDia.forEach(btn => {
-                btn.addEventListener('click', function() {
+                btn.addEventListener('click', function () {
                     botoesDia.forEach(b => b.classList.remove('ativo'))
                     this.classList.add('ativo')
                     const diaClicado = programacaoCompleta.find(d => d.dia === this.dataset.dia)
@@ -38,10 +39,10 @@ fetch('../data/dados.json')
             })
         }
 
-      
+
         const btnsFiltro = document.querySelectorAll('.btnFiltro')
         btnsFiltro.forEach(btn => {
-            btn.addEventListener('click', function() {
+            btn.addEventListener('click', function () {
                 btnsFiltro.forEach(b => b.classList.remove('ativo'))
                 this.classList.add('ativo')
 
@@ -55,10 +56,10 @@ fetch('../data/dados.json')
                             </button>
                         `
                     })
-                    
+
                     const botoesPolos = document.querySelectorAll('.botaoPolos')
                     botoesPolos.forEach(btn => {
-                        btn.addEventListener('click', function() {
+                        btn.addEventListener('click', function () {
                             botoesPolos.forEach(b => b.classList.remove('ativo'))
                             this.classList.add('ativo')
                             const poloClicado = todosPolos.find(p => p.id === this.dataset.polo)
@@ -81,12 +82,12 @@ fetch('../data/dados.json')
                 primeiroPoloBtn.classList.add('ativo')
                 gerarProgramacaoPolo(todosPolos[0])
             })
-            
+
 
         })
-        
 
-        
+
+
         gerarBotoesDias()
 
         const hojeISO = new Date().toISOString().split('T')[0]
@@ -97,7 +98,7 @@ fetch('../data/dados.json')
         botaoInicial.classList.add('ativo')
         gerarProgramacao(diaInicial)
 
-        
+
         function gerarProgramacao(dia) {
             const container = document.getElementById('programacao')
             container.innerHTML = ''
@@ -128,14 +129,14 @@ fetch('../data/dados.json')
                 `
             })
 
-            
+
             const btnFavoritar = document.querySelectorAll('.btnFavoritar')
             btnFavoritar.forEach(btn => {
                 const favoritosAtuais = JSON.parse(localStorage.getItem('favoritos')) || []
                 const jaFavoritado = favoritosAtuais.find(f => f.artista === btn.dataset.artista)
                 if (jaFavoritado) btn.classList.add('favoritado')
 
-                btn.addEventListener('click', function() {
+                btn.addEventListener('click', function () {
                     const show = {
                         artista: this.dataset.artista,
                         horario: this.dataset.horario,
@@ -160,7 +161,7 @@ fetch('../data/dados.json')
             })
         }
 
-        
+
         function gerarProgramacaoPolo(polo) {
             const container = document.getElementById('programacao')
             container.innerHTML = ''
@@ -201,36 +202,36 @@ fetch('../data/dados.json')
                     `
                 })
                 const btnFavoritar = document.querySelectorAll('.btnFavoritar')
-            btnFavoritar.forEach(btn => {
-                const favoritosAtuais = JSON.parse(localStorage.getItem('favoritos')) || []
-                const jaFavoritado = favoritosAtuais.find(f => f.artista === btn.dataset.artista)
-                if (jaFavoritado) btn.classList.add('favoritado')
+                btnFavoritar.forEach(btn => {
+                    const favoritosAtuais = JSON.parse(localStorage.getItem('favoritos')) || []
+                    const jaFavoritado = favoritosAtuais.find(f => f.artista === btn.dataset.artista)
+                    if (jaFavoritado) btn.classList.add('favoritado')
 
-                btn.addEventListener('click', function() {
-                    const show = {
-                        artista: this.dataset.artista,
-                        horario: this.dataset.horario,
-                        polo: this.dataset.polo,
-                        dia: this.dataset.dia,
-                        imagem: this.dataset.imagem
-                    }
+                    btn.addEventListener('click', function () {
+                        const show = {
+                            artista: this.dataset.artista,
+                            horario: this.dataset.horario,
+                            polo: this.dataset.polo,
+                            dia: this.dataset.dia,
+                            imagem: this.dataset.imagem
+                        }
 
-                    const favoritos = JSON.parse(localStorage.getItem('favoritos')) || []
-                    const jaExiste = favoritos.find(f => f.artista === show.artista)
+                        const favoritos = JSON.parse(localStorage.getItem('favoritos')) || []
+                        const jaExiste = favoritos.find(f => f.artista === show.artista)
 
-                    if (jaExiste) {
-                        const novaLista = favoritos.filter(f => f.artista !== show.artista)
-                        localStorage.setItem('favoritos', JSON.stringify(novaLista))
-                        this.classList.remove('favoritado')
-                    } else {
-                        favoritos.push(show)
-                        localStorage.setItem('favoritos', JSON.stringify(favoritos))
-                        this.classList.add('favoritado')
-                    }
+                        if (jaExiste) {
+                            const novaLista = favoritos.filter(f => f.artista !== show.artista)
+                            localStorage.setItem('favoritos', JSON.stringify(novaLista))
+                            this.classList.remove('favoritado')
+                        } else {
+                            favoritos.push(show)
+                            localStorage.setItem('favoritos', JSON.stringify(favoritos))
+                            this.classList.add('favoritado')
+                        }
+                    })
                 })
-            })
             })
         }
 
-    
+
     })
