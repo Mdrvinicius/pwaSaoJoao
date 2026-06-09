@@ -430,6 +430,7 @@ main{
 }
 
 .cardListaFav img{
+    object-fit: cover;
     width: 100px;
     height: 100px;
     border-radius: 5px;

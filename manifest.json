@@ -1,0 +1,22 @@
+{
+    "name": "São João em Arcoverde",
+    "short_name": "São João",
+    "description": "O guia oficial do São João de Arcoverde",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#04143A",
+    "theme_color": "#04143A",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "/assets/icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
