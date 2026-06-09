@@ -45,7 +45,6 @@ fetch('./data/dados.json')
                 if (slide.tipo === 'show') {
                     cardPrincipal.innerHTML = `
                         <img src="./assets/img/${slide.imagem}" alt="${slide.artista}">
-                        <div class="badgeLive">LIVE</div>
                         <h2>${poloMulticultural.nome}</h2>
                         <h3>${slide.artista}</h3>
                         <time>${slide.horario}</time>

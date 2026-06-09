@@ -95,19 +95,6 @@ main{
     opacity: 0.6;
 }
 
-.badgeLive {
-    position: absolute;
-    top: 14px;
-    left: 14px;
-    background: #ff0000;
-    color: white;
-    font-size: .85rem;
-    font-weight: 700;
-    padding: 6px 10px;
-    border-radius: 8px;
-    z-index: 2;
-}
-
 
 #cardPrincipal h2,
 #cardPrincipal h3,

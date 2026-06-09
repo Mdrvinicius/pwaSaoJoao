@@ -12,19 +12,19 @@
                     "dia": "2026-06-13",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Coco das Irmãs Lopes",
                             "imagem": "sambaCoco.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Flavio Jose",
                             "imagem": "flavioJose.jpg",
-                            "destaque": false
+                            "destaque": true
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Alceu Valença",
                             "imagem": "alceuValenca.jpg",
                             "destaque": true
@@ -35,19 +35,19 @@
                     "dia": "2026-06-14",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "PV Calado",
                             "imagem": "pvCalado.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Junior e Jorge",
                             "imagem": "juniorEjorge.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Lipe Lucena",
                             "imagem": "lipeLucena.jpg",
                             "destaque": true
@@ -58,7 +58,7 @@
                     "dia": "2026-06-15",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Festival de Quadrilhas no Sesc",
                             "imagem": "sesc.jpg",
                             "destaque": true
@@ -69,19 +69,19 @@
                     "dia": "2026-06-16",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Juciê",
                             "imagem": "jucie.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Zé Vaqueiro",
                             "imagem": "zeVaqueiro.jpg",
                             "destaque": true
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Nattan",
                             "imagem": "nattan.jpg",
                             "destaque": true
@@ -92,19 +92,19 @@
                     "dia": "2026-06-19",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Dani Aguiar",
                             "imagem": "daniAguiar.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:00",
                             "artista": "talitaMel",
                             "imagem": "talitaMel.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Priscila Senna",
                             "imagem": "priscilaSenna.jpg",
                             "destaque": true
@@ -115,19 +115,19 @@
                     "dia": "2026-06-20",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Mayana Neiva",
                             "imagem": "mayanaNeiva.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Edy & Nathan",
                             "imagem": "edyEnathan.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Fabinho Testado ",
                             "imagem": "fabinhoTestado.jpg",
                             "destaque": true
@@ -138,31 +138,31 @@
                     "dia": "2026-06-21",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "18:00",
                             "artista": "Capital do Sol ",
                             "imagem": "capitalDoSol.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "29:00",
                             "artista": "Ciro Santos ",
                             "imagem": "ciroSantos.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Assisão",
                             "imagem": "assisao.jpg",
                             "destaque": true
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:00",
                             "artista": "Super Oara",
                             "imagem": "superOara.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Felipe Amorim",
                             "imagem": "felipeAmorim.jpg",
                             "destaque": true
@@ -173,19 +173,19 @@
                     "dia": "2026-06-22",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Coco Fulô do Barro",
                             "imagem": "cocoFuloDoBarro.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Geraldinho Lins",
                             "imagem": "geraldinhoLins.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Garota Safada",
                             "imagem": "garotaSafada.jpg",
                             "destaque": true
@@ -196,25 +196,25 @@
                     "dia": "2026-06-23",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "19:00",
                             "artista": "Coco Raízes de Arcoverde ",
                             "imagem": "cocoRaizes.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "George Silva",
                             "imagem": "georgeSilva.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Jorge de Altinho ",
                             "imagem": "jorgeDeAltinho.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Cordel do Fogo Encantado ",
                             "imagem": "cordelDoFogoEncantado.jpg",
                             "destaque": true
@@ -225,19 +225,19 @@
                     "dia": "2026-06-24",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "João Vaqueiro",
                             "imagem": "joaoVaqueiro.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Magníficos ",
                             "imagem": "magnificos.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Xand Avião",
                             "imagem": "garotaSafada.jpg",
                             "destaque": true
@@ -248,19 +248,19 @@
                     "dia": "2026-06-25",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Will",
                             "imagem": "will.jpg",
                             "destaque": true
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Nágylla Ferreira  ",
                             "imagem": "nagyllaFerreira.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "João Gomes ",
                             "imagem": "joaoGomes.jpg",
                             "destaque": true
@@ -271,19 +271,19 @@
                     "dia": "2026-06-26",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Ycaro Andrade",
                             "imagem": "ycaroAndrade.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Harry Estigado",
                             "imagem": "harryEstigado.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Nathanzinho Lima",
                             "imagem": "nathanzinhoLima.jpg",
                             "destaque": true
@@ -294,19 +294,19 @@
                     "dia": "2026-06-27",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Flávio Leandro",
                             "imagem": "flavioLeandro.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Noda de Caju",
                             "imagem": "nodaDeCaju.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Limão com Mel ",
                             "imagem": "limaoComMel.jpg",
                             "destaque": true
@@ -317,19 +317,19 @@
                     "dia": "2026-06-28",
                     "shows": [
                         {
-                            "horario": "--:--",
+                            "horario": "20:00",
                             "artista": "Carlos e Fábio ",
                             "imagem": "carlosEfabio.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "21:30",
                             "artista": "Forrozão Chacal ",
                             "imagem": "forrozaoChacal.jpg",
                             "destaque": false
                         },
                         {
-                            "horario": "--:--",
+                            "horario": "00:00",
                             "artista": "Matheus & Kauan",
                             "imagem": "matheusEkauan.jpg",
                             "destaque": true
@@ -491,271 +491,6 @@
                         {
                             "horario": "22:30",
                             "artista": "As Januárias",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                }
-            ]
-        },
-        {
-            "id": "budega",
-            "nome": "Budega da Poesia",
-            "latitude": -8.41315,
-            "longitude": -37.06486,
-            "img": "budegaDaPoesia.jpg",
-            "descricao": "Poesia e cultura do sertão nordestino",
-            "programacao": [
-                {
-                    "dia": "2026-06-13",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Macvany",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Chamego Quente",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "17:00",
-                            "artista": "Giovani do Acordeon",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Monteirinho e Banda",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-14",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Monteirinho",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Leandro Vaz",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "16:00",
-                            "artista": "Aldo Almeida",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "18:00",
-                            "artista": "Cantigas e Cantilenas",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Paulinha Mel",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-20",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Monteirinho",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Samba de Latada",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "16:00",
-                            "artista": "Paulinho e Pedrinho do Acordeon",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "18:00",
-                            "artista": "Poetas da Budega",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Tião Gavião e Forró Talismã",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-21",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Macvany",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Artuzinho do Acordeon",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "17:00",
-                            "artista": "Almir e Banda",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Thiago e Dineide",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-23",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Leandro Vaz",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Zezito Santos",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "17:00",
-                            "artista": "Forró Art Nordestina",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Júnior Saigon",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-24",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Macvany",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Didi Cachiado",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "17:00",
-                            "artista": "Forrozão Pegada Quente",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "George Silva",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-25",
-                    "shows": [
-                        {
-                            "horario": "18:00",
-                            "artista": "Noite do Candeeiro",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-27",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Monteirinho",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Forrozão de Pai pra Filho",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "17:00",
-                            "artista": "Jadson Matuto",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Curinga e Cilene",
-                            "imagem": "",
-                            "destaque": true
-                        }
-                    ]
-                },
-                {
-                    "dia": "2026-06-28",
-                    "shows": [
-                        {
-                            "horario": "13:00",
-                            "artista": "Leandro Vaz",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "15:00",
-                            "artista": "Gigantes do Forró",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "16:00",
-                            "artista": "Ruana Nascimento",
-                            "imagem": "",
-                            "destaque": false
-                        },
-                        {
-                            "horario": "19:00",
-                            "artista": "Silvia Regina",
                             "imagem": "",
                             "destaque": true
                         }
@@ -1663,18 +1398,18 @@
     "patrocinadores": [
         {
             "id": "patrocinador1",
-            "nome": "Razer",
-            "logo": "razer.png"
+            "nome": "HEINEKEN",
+            "logo": "heineken.jpg"
         },
         {
             "id": "patrocinador2",
-            "nome": "Riot Games",
-            "logo": "riot.png"
+            "nome": "Governo Federal",
+            "logo": "governoFederal.jpg"
         },
         {
             "id": "patrocinador3",
-            "nome": "Banco Master",
-            "logo": "bancoMaster.jpg"
+            "nome": "Pic Pay",
+            "logo": "picpay.jpg"
         }
     ],
     "descancar": [
