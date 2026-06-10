@@ -343,7 +343,7 @@
             "nome": "Polo Raízes do Coco",
             "latitude": -8.42243,
             "longitude": -37.05211,
-            "img": "altoDoCruzeiro.jpg",
+            "img": "raizesDoCoco.jpg",
             "descricao": "Tradição e autenticidade do nosso forró",
             "programacao": [
                 {
@@ -352,19 +352,19 @@
                         {
                             "horario": "19:00",
                             "artista": "Samba de Coco En'cantos do Coco",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "20:30",
                             "artista": "Samba de Coco Irmãs Lopes",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Josildo Sá",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         }
                     ]
@@ -375,25 +375,25 @@
                         {
                             "horario": "17:00",
                             "artista": "Valdinho Paes",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Samba de Coco Raízes de Arcoverde",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "20:30",
                             "artista": "Maciel Melo",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         },
                         {
                             "horario": "22:00",
                             "artista": "Almerio",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         }
                     ]
@@ -404,19 +404,19 @@
                         {
                             "horario": "19:00",
                             "artista": "Samba de Coco Eremim",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "20:30",
                             "artista": "Samba de Coco Quebra Coco Aliança",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Romero Ferro",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         }
                     ]
@@ -427,19 +427,19 @@
                         {
                             "horario": "19:00",
                             "artista": "Samba de Coco Tropé",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "20:30",
                             "artista": "Somos Forró",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Martins",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         }
                     ]
@@ -450,19 +450,19 @@
                         {
                             "horario": "18:00",
                             "artista": "Samba de Coco d'Malandro",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:30",
                             "artista": "Joyce Alane",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Laís Senna",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         }
                     ]
@@ -473,25 +473,25 @@
                         {
                             "horario": "17:00",
                             "artista": "Rafael Moura",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Transmissão do jogo do Brasil",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Samba de Coco Pisada Segura",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "As Januárias",
-                            "imagem": "",
+                            "imagem": "raizesDoCoco.jpg",
                             "destaque": true
                         }
                     ]
@@ -512,13 +512,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Ademir e Banda",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Silvia Regina",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -529,13 +529,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Forró Maktub",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Forró de Pai pra Filho",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -546,13 +546,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Sergio Coringa e Cilene a Flor do Sertão",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Cição",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -563,13 +563,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Zé do Peba e Trio Catingueira",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Pau no Xote",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -580,19 +580,19 @@
                         {
                             "horario": "19:00",
                             "artista": "James Vaqueiro",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "20:30",
                             "artista": "Lorenção",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Boka Diniz",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -603,13 +603,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Tiago e Dineide Araújo",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Vaqueirões do Forró",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -620,13 +620,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Ricardo Lima",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Daci Pires e Forró Baluarte",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -637,13 +637,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Zezinho do Acordeon",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:00",
                             "artista": "Forró Júnior Saygon",
-                            "imagem": "",
+                            "imagem": "peDeSerra.jpg",
                             "destaque": true
                         }
                     ]
@@ -664,13 +664,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Carim Moraes Andrade",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Luiz Wilson",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -681,19 +681,19 @@
                         {
                             "horario": "15:00",
                             "artista": "Lídio Vaz",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "16:30",
                             "artista": "Leandro Vaz",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Gabi Cyseiros",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -704,7 +704,7 @@
                         {
                             "horario": "17:00",
                             "artista": "Sintonia Pegada Quente",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -715,13 +715,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Djosman Avelino - Do Verso ao Choro",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Mestre Alberone Rabequeiro",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -732,19 +732,19 @@
                         {
                             "horario": "14:00",
                             "artista": "Café em Cena",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "16:00",
                             "artista": "MAM - Arcoverde (En)Canto",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Isabelly Moreira",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -755,13 +755,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Paulinho do Forró",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Manuel Lima Repentista",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -772,13 +772,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Tenório Barros",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Cazu Arcoverde",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -789,25 +789,25 @@
                         {
                             "horario": "15:00",
                             "artista": "Zé Carlos Pajé",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "16:00",
                             "artista": "Ancheita Dali",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "17:00",
                             "artista": "Sofia Andriadora",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "18:00",
                             "artista": "Farra dos Poetas",
-                            "imagem": "",
+                            "imagem": "poloPoesia.jpg",
                             "destaque": false
                         }
                     ]
@@ -828,13 +828,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Arrocha Noiz",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Robson Torres",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -845,13 +845,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Gilene Alves",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Raul e Rogério",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -862,13 +862,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Cícero do Acordeon",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Tempero Nordestino",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -879,13 +879,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Cigano do Acordeon",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Rodolfo Melo",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -896,13 +896,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Românticos do Forró",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Trio Gavião",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -913,13 +913,13 @@
                         {
                             "horario": "16:00",
                             "artista": "Zé Coco",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "19:00",
                             "artista": "Zezito Santos Alegria do Forró",
-                            "imagem": "",
+                            "imagem": "poloCruz.jpg",
                             "destaque": false
                         }
                     ]
@@ -940,25 +940,25 @@
                         {
                             "horario": "20:00",
                             "artista": "Reisado Encantos das Caraíbas",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:30",
                             "artista": "Quadrilha Junina Rainha Sertaneja",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Quebra Coco Aliança",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "00:00",
                             "artista": "Cadilac Tangerina",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -969,19 +969,19 @@
                         {
                             "horario": "20:00",
                             "artista": "Coco Fulô do Barro",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Regente Joaquim",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Caike Souza",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -992,19 +992,19 @@
                         {
                             "horario": "20:00",
                             "artista": "Coco Trupé",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:30",
                             "artista": "Lia Morais",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Vertin Moura",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1015,25 +1015,25 @@
                         {
                             "horario": "20:00",
                             "artista": "Coco Pisada Segura",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Motumbaxé",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Oba Aiyê",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "00:00",
                             "artista": "Helena Cristina",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1044,25 +1044,25 @@
                         {
                             "horario": "20:00",
                             "artista": "Reisado Mirim N. S. do Rosário",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Encantos do Coco",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Jú Cavalcanti",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "00:00",
                             "artista": "Gabi da Pele Preta",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1073,25 +1073,25 @@
                         {
                             "horario": "20:00",
                             "artista": "Afoxé Ya Omi Ogunté",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Coco de Malandro",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Transcoco",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "00:00",
                             "artista": "Driko",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1102,25 +1102,25 @@
                         {
                             "horario": "20:00",
                             "artista": "Coco Juremado Manacá",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:30",
                             "artista": "Tonino Arcoverde",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Forró Rabecado",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "00:00",
                             "artista": "Forró na Caixa",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1131,19 +1131,19 @@
                         {
                             "horario": "20:00",
                             "artista": "Coco Eremim",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:30",
                             "artista": "Kelly Rosa",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "22:30",
                             "artista": "Larissa Gois",
-                            "imagem": "",
+                            "imagem": "poloArtes.jpg",
                             "destaque": false
                         }
                     ]
@@ -1164,7 +1164,7 @@
                         {
                             "horario": "21:00",
                             "artista": "Maracatu Batuque do Sertão",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1175,13 +1175,13 @@
                         {
                             "horario": "19:00",
                             "artista": "Banda de Pífanos Senhores da Terra",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Maracatu Raízes do Sertão",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1192,13 +1192,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífano Santa Luzia",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Maracatu Estrela Dourada Mestre Baraxinha",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1209,13 +1209,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífano São Sebastião",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Maracatu Encantos do Sertão",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1226,7 +1226,7 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífano Zabumba São Miguel",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1237,13 +1237,13 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífano N. S. da Conceição",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "21:00",
                             "artista": "Sertão Maracatu",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1254,7 +1254,7 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífanos Senhores da Terra",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1265,7 +1265,7 @@
                         {
                             "horario": "20:00",
                             "artista": "Banda de Pífanos Zabumba São Miguel",
-                            "imagem": "",
+                            "imagem": "poloCorredorCultural.jpg",
                             "destaque": false
                         }
                     ]
@@ -1277,7 +1277,7 @@
             "nome": "Polo do CGA",
             "latitude": -8.420000,
             "longitude": -37.060000,
-            "img": "poloCGA.jpg",
+            "img": "cga.jpg",
             "descricao": "Programação cultural e artística do CGA",
             "programacao": [
                 {
@@ -1286,7 +1286,7 @@
                         {
                             "horario": "14:00",
                             "artista": "Felipe Morais",
-                            "imagem": "felipeMorais.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1297,13 +1297,13 @@
                         {
                             "horario": "12:00",
                             "artista": "Paulinha Mel",
-                            "imagem": "paulinhaMel.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "14:00",
                             "artista": "Edson Augusto e Forró dos Três",
-                            "imagem": "edsonAugusto.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1314,7 +1314,7 @@
                         {
                             "horario": "12:00",
                             "artista": "Art' Nordestina",
-                            "imagem": "artNordestina.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1325,13 +1325,13 @@
                         {
                             "horario": "12:00",
                             "artista": "Gil Mendes",
-                            "imagem": "gilMendes.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "14:00",
                             "artista": "Forró Sem Limites",
-                            "imagem": "forroSemLimites.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1342,13 +1342,13 @@
                         {
                             "horario": "12:00",
                             "artista": "Elder Brasil",
-                            "imagem": "elderBrasil.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "14:00",
                             "artista": "Paulinho do Forró",
-                            "imagem": "paulinhoDoForro.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1359,13 +1359,13 @@
                         {
                             "horario": "12:00",
                             "artista": "Forró Chamego Quente",
-                            "imagem": "forroChamegoQuente.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         },
                         {
                             "horario": "14:00",
                             "artista": "Ewerton Macedo",
-                            "imagem": "ewertonMacedo.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1376,7 +1376,7 @@
                         {
                             "horario": "12:00",
                             "artista": "Ruana Nascimento",
-                            "imagem": "ruanaNascimento.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]
@@ -1387,7 +1387,7 @@
                         {
                             "horario": "12:00",
                             "artista": "Forró do Povo",
-                            "imagem": "forroDoPovo.jpg",
+                            "imagem": "cga.jpg",
                             "destaque": false
                         }
                     ]

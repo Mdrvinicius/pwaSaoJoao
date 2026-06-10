@@ -3,15 +3,15 @@ const CACHE_NAME = 'saojoao-v1'
 const ARQUIVOS = [
     '/',
     '/index.html',
-    '/pages/home.html',
     '/pages/programacao.html',
     '/pages/polos.html',
     '/pages/favoritos.html',
     '/pages/mais.html',
     '/pages/mais/turismo.html',
-    '/pages/mais/onde-comer.html',
-    '/pages/mais/onde-ficar.html',
-    '/pages/mais/sobre-arcoverde.html',
+    '/pages/mais/ondeComer.html',
+    '/pages/mais/ondeFicar.html',
+    '/pages/mais/sobreArcoverde.html',
+    '/pages/mais/sobreSaoJoao.html',
     '/pages/mais/desenvolvedor.html',
     '/assets/css/style.css',
     '/assets/js/script.js',
@@ -20,12 +20,12 @@ const ARQUIVOS = [
     '/assets/js/polos.js',
     '/assets/js/favoritos.js',
     '/assets/js/turismo.js',
-    '/assets/js/onde-comer.js',
-    '/assets/js/onde-ficar.js',
+    '/assets/js/ondeComer.js',
+    '/assets/js/ondeFicar.js',
     '/data/dados.json'
 ]
 
-// instala o service worker e cacheia os arquivos
+
 self.addEventListener('install', evento => {
     evento.waitUntil(
         caches.open(CACHE_NAME)
@@ -33,7 +33,7 @@ self.addEventListener('install', evento => {
     )
 })
 
-// ativa e limpa caches antigos
+
 self.addEventListener('activate', evento => {
     evento.waitUntil(
         caches.keys().then(chaves => {
@@ -46,7 +46,7 @@ self.addEventListener('activate', evento => {
     )
 })
 
-// intercepta requisições — tenta cache primeiro, depois rede
+
 self.addEventListener('fetch', evento => {
     evento.respondWith(
         caches.match(evento.request)

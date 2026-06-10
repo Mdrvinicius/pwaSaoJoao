@@ -104,29 +104,28 @@ fetch('../data/dados.json')
             container.innerHTML = ''
 
             dia.shows.forEach(show => {
-                container.innerHTML += `
-                    <div class="cardProgramacao">
-                        <div class="horarioShow">
-                            <p>${show.horario}</p>
+               container.innerHTML += `
+                        <div class="cardProgramacao">
+                            <img src="../assets/img/${show.imagem}" alt="${show.artista}" class="imgArtistaProg">
+                            <div class="infoShowProgramacao">
+                                <h3>${nomePolo}</h3>
+                                <h4>${show.artista}</h4>
+                                <time>${show.horario}</time>
+                            </div>
+                            <button class="btnFavoritar"
+                                data-artista="${show.artista}"
+                                data-horario="${show.horario}"
+                                data-polo="${nomePolo}"
+                                data-dia="${dia.dia}"
+                                data-imagem="${show.imagem}">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                    <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
+                                </svg>
+                            </button>
                         </div>
-                        <div class="infoShowProgramacao">
-                            <h3>${nomePolo}</h3>
-                            <h4>${show.artista}</h4>
-                        </div>
-                        <button class="btnFavoritar"
-                            data-artista="${show.artista}"
-                            data-horario="${show.horario}"
-                            data-polo="${nomePolo}"
-                            data-dia="${dia.dia}"
-                            data-imagem="${show.imagem}">
-                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                                <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
-                            </svg>
-                        </button>
-                    </div>
-                `
+                    `
             })
 
 
@@ -178,28 +177,27 @@ fetch('../data/dados.json')
 
                 dia.shows.forEach(show => {
                     container.innerHTML += `
-                        <div class="cardProgramacao">
-                            <div class="horarioShow">
-                                <p>${show.horario}</p>
+                            <div class="cardProgramacao">
+                                <img src="../assets/img/${show.imagem}" alt="${show.artista}" class="imgArtistaProg">
+                                <div class="infoShowProgramacao">
+                                    <h3>${polo.nome}</h3>
+                                    <h4>${show.artista}</h4>
+                                    <time>${show.horario}</time>
+                                </div>
+                                <button class="btnFavoritar"
+                                    data-artista="${show.artista}"
+                                    data-horario="${show.horario}"
+                                    data-polo="${polo.nome}"
+                                    data-dia="${dia.dia}"
+                                    data-imagem="${show.imagem}">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                                        <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+                                        <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
+                                    </svg>
+                                </button>
                             </div>
-                            <div class="infoShowProgramacao">
-                                <h3>${polo.nome}</h3>
-                                <h4>${show.artista}</h4>
-                            </div>
-                            <button class="btnFavoritar"
-                                data-artista="${show.artista}"
-                                data-horario="${show.horario}"
-                                data-polo="${polo.nome}"
-                                data-dia="${dia.dia}"
-                                data-imagem="${show.imagem}">
-                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
-                                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-                                    <path stroke="none" d="M0 0h24v24H0z" fill="none" />
-                                    <path d="M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572" />
-                                </svg>
-                            </button>
-                        </div>
-                    `
+                        `
                 })
                 const btnFavoritar = document.querySelectorAll('.btnFavoritar')
                 btnFavoritar.forEach(btn => {

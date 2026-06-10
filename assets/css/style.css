@@ -508,6 +508,19 @@ main{
     gap: 12px;
     margin-bottom: 12px;
 }
+.imgArtistaProg {
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.infoShowProgramacao time {
+    font-size: 0.85rem;
+    color: #666666;
+    margin-top: 4px;
+}
 
 .cardProgramacao .horarioShow p {
     font-size: 20px;
